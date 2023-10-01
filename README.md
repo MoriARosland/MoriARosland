@@ -5,6 +5,7 @@ I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Ele
 ![Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase)
 ![Git](https://img.shields.io/badge/Git-gray?logo=git)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-gray?logo=svelte)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-gray?logo=tailwindcss)
 ![Netlify](https://img.shields.io/badge/Netlify-gray?logo=netlify)
 ![npm](https://img.shields.io/badge/npm-gray?logo=npm)
 ![Wolfram](https://img.shields.io/badge/Wolfram-gray?logo=wolfram)
