@@ -19,7 +19,8 @@ I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Ele
 ![HTML](https://img.shields.io/badge/HTML-gray?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-gray?logo=css3)
 
-
+### ✍️ What I'm currently learning
+Trying to learn [MongoDB](https://www.mongodb.com/) with some tinkering.
 
 
 
