@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Electronic System design](https://www.ntnu.no/studier/mtelsys). I love programming and spend most of my coding time doing web development and embedded programming. Here are technologies I work with:
+I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Electronic System design](https://www.ntnu.no/studier/mtelsys). I have a passion for programming, and do a mix of web/mobile development and embedded programming. Here are technologies I work with:
 
 ### 🧰 Languages and Tools
 ![Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase)
@@ -18,6 +18,8 @@ I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Ele
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-gray?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-gray?logo=css3)
+![Flutter](https://img.shields.io/badge/Flutter-gray?logo=flutter&logoColor=%2340AEF0)
+
 
 ### ✍️ What I'm currently learning
 Mobile development with [Flutter](https://flutter.dev/).
