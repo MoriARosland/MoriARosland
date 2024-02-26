@@ -25,7 +25,7 @@ I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Ele
 Mobile development with [Flutter](https://flutter.dev/).
 
 ### 🛠️ Experience
-Excluding personal projects, my biggest experiences have been working at Microchip Technologies writing firmware for 8-bit microcontrollers, and writing code for the flight system on [Project Bifrost](https://www.propulse.no/Projects/Bifrost) at Propulse NTNU.
+Excluding personal projects, I've been working at Microchip Technology writing firmware for 8-bit microcontrollers, and writing code for the flight system on [Project Bifrost](https://www.propulse.no/Projects/Bifrost) at Propulse NTNU.
 
 
 
