@@ -13,6 +13,7 @@ I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Ele
 
 ![C](https://img.shields.io/badge/C-gray?logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?logo=cplusplus)
+![Go](https://img.shields.io/badge/Go-lol?logo=go&color=gray)
 ![Python](https://img.shields.io/badge/Python-gray?logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
