@@ -1,32 +1,17 @@
-### Hi there 👋
-I'm in my third year at [NTNU](https://www.ntnu.no/) studying for an MSc in [Electronic System design](https://www.ntnu.no/studier/mtelsys). I have a passion for programming, and do a mix of web/mobile development and embedded programming. Here are technologies I work with:
+### About Me
+I'm in my final year at [NTNU](https://www.ntnu.no/) pursuing an MSc in [Electronic Systems Design](https://www.ntnu.no/studier/mtelsys). Explore a mix of personal and university-related projects below. Visit my [website](https://www.morirosland.com/) for additional projects not listed here.
 
-### 🧰 Languages and Tools
-![Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase)
-![Git](https://img.shields.io/badge/Git-gray?logo=git)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-gray?logo=svelte)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-gray?logo=tailwindcss)
-![Netlify](https://img.shields.io/badge/Netlify-gray?logo=netlify)
-![npm](https://img.shields.io/badge/npm-gray?logo=npm)
-![Wolfram](https://img.shields.io/badge/Wolfram-gray?logo=wolfram)
-
-
-![C](https://img.shields.io/badge/C-gray?logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-gray?logo=cplusplus)
-![Go](https://img.shields.io/badge/Go-lol?logo=go&color=gray)
-![Python](https://img.shields.io/badge/Python-gray?logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-gray?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-gray?logo=css3)
-![Flutter](https://img.shields.io/badge/Flutter-gray?logo=flutter&logoColor=%2340AEF0)
-
+I primarily work on embedded software and designing PCBs, but I have also completed some complex FPGA/HDL projects.
 
 ### ✍️ What I'm currently learning
-Mobile development with [Flutter](https://flutter.dev/).
+I'm currently learning mixed-signal/RF design and FPGA layout for PCBs.
 
 ### 🛠️ Experience
-Excluding personal projects, I've been working at Microchip Technology writing firmware for 8-bit microcontrollers, and writing code for the flight system on [Project Bifrost](https://www.propulse.no/Projects/Bifrost) at Propulse NTNU.
+Below is my most relevant work experience, excluding personal projects. Check out my [LinkedIn](https://www.linkedin.com/in/morirosland/) for more details:
+
+- Hardware Engineer, Airthings
+- Firmware Engineer, Microchip Technology
+- Avionics Engineer, Propulse NTNU ([Project Bifrost](https://www.propulse.no/Projects/Bifrost))
 
 
 
