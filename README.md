@@ -1,7 +1,7 @@
 ### About Me
 I'm in my final year at [NTNU](https://www.ntnu.no/) pursuing an MSc in [Electronic Systems Design](https://www.ntnu.no/studier/mtelsys). Explore a mix of personal and university-related projects below. Visit my [website](https://www.morirosland.com/) for additional projects not listed here.
 
-I primarily work on embedded software and designing PCBs, but I have also completed some complex FPGA/HDL projects.
+I primarily work on embedded software, PCB design, and digital design (FPGA/IC).
 
 ### ✍️ What I'm currently learning
 I'm currently learning mixed-signal/RF design and FPGA layout for PCBs.
